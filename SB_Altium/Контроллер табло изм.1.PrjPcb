@@ -41,7 +41,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=000.000.000Э3 Контроллер табло.SchDoc
+DocumentPath=000.000.001Э3 Контроллер табло.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -58,7 +58,7 @@ GenerateClassCluster=0
 DocumentUniqueId=LQFNLATK
 
 [Document2]
-DocumentPath=000.000.001 rev.1.PcbDoc
+DocumentPath=000.000.001 rev.2.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1137,10 +1137,16 @@ NetClassManualEnabled=1
 NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
-SelectedOnly=0
+SelectedOnly=1
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=Enset.SCHLIB
+ComponentDesignItemID0=MCP2551-I/SN
+ComponentSymbolReference0=MCP2551-I/SN
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1154,6 +1160,21 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
+ParameterName0=Comment
+ParameterUpdate0=1
+ParameterName1=Component Kind
+ParameterUpdate1=1
+ParameterName2=Description
+ParameterUpdate2=1
+ParameterName3=Library Reference
+ParameterUpdate3=1
+ParameterName4=Value
+ParameterUpdate4=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=SOIC8N_L
+ModelUpdate0=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0

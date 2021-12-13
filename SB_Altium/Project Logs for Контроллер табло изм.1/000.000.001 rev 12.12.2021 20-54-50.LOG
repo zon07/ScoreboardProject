@@ -1,0 +1,5 @@
+Added Component: Designator=R15(RES0805-050)
+Add component (AddParameter): Name = "Cost"; Value = "0.9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "RC0805FR-0727KL (0805 27 êÎì ±1%)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Visible"; Value = "27k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD10_8 Pin=R15-2

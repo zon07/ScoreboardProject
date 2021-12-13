@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=D1 Old Footprint=SOT23-5 New Footprint=SOT23-5AM
+Change component parameters: Designator = "D1" ("D1"); Footprint = "SOT23-5"; UniqueID = "\INUPRLCA" ("\INUPRLCA")
+Change component parameters (AddParameter): Name = "Value"; Value = "SN74AHC1G14DRLR"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD6_6 Pin=D9-2
+Added Pin To Net: NetName=485_R\E\ Pin=D9-3
+Added Pin To Net: NetName=485_DE Pin=D9-4
+Change Net Name : Old Net Name=NetD6_6 New Net Name=RS232_485_SEL
