@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=485_DE Pin=D9-4
+Added Pin To Net: NetName=485_DE Pin=D4-2
+Added Pin To Net: NetName=485_DE Pin=D9-3
