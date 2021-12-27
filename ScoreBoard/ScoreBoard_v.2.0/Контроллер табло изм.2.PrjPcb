@@ -114,10 +114,6 @@ Variation4=Designator=D9|UniqueId=\XSWHXZGZ|Kind=1|AlternatePart=
 Variation5=Designator=D10|UniqueId=\ERRJJOQY|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
-[GeneratedDocument1]
-DocumentPath=
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
